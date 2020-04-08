@@ -1,3 +1,9 @@
+@import '~carbon-components/scss/globals/scss/vendor/@carbon/type/scss/font-family.scss';
+@import '~carbon-components/scss/globals/scss/vendor/@carbon/layout/scss/breakpoint.scss';
+@import '~carbon-components/scss/globals/scss/typography.scss';
+@import '~carbon-components/scss/globals/scss/vars.scss'; 
+@import '~carbon-components/scss/globals/scss/styles.scss';
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
